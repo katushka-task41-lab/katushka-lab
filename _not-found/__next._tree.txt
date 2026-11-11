@@ -1,0 +1,4 @@
+:HL["/katushka-lab/_next/static/css/000cdb3870e3376e.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"bXJrxHzg0oYuY-ZyDbC8d","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
